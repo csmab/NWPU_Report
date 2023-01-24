@@ -12,4 +12,4 @@
 \newenvironment{note}{\par\noindent\textsc{Note of Problem \arabic{problemname}. }}{\\\par}
 ```
 
- [点此](main.pdf) 查看PDF文件
+ [点此](main.pdf) 查看使用效果
